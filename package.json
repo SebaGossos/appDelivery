@@ -12,7 +12,7 @@
     "autoprefixer": "^10.3.1",
     "cssnano": "^5.0.7",
     "gulp": "^4.0.2",
-    "gulp-avif": "^0.0.1",
+    "gulp-avif": "^1.0.1",
     "gulp-imagemin": "^7.1.0",
     "gulp-libsquoosh": "^1.1.2",
     "gulp-postcss": "^9.0.0",
