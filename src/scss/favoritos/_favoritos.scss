@@ -3,10 +3,11 @@
 
 .favoritos{
     background-color: v.$grisClaro;
-    padding: v.$secundario 0;
+    padding: v.$separacion 0;
 
     &__heading{
         color: v.$secundario;
+        text-align: center;
     }
     &__grid{
         @include m.tablet {
